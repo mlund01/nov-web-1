@@ -1,0 +1,15 @@
+{
+	"appname": "nov-web-1",
+	"scope": "FullAccess",
+	"clientid": "AE3C2DCA-1A46-47BD-8500-8B87EC2F71E9",
+	"buyerid": "1234",
+	"catalogid": "1234",
+	"environment": "prod",
+	"anonymous": false,
+	"base": {
+		"left": true,
+		"right": false,
+		"top": true,
+		"bottom": false
+	}
+}
